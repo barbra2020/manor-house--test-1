@@ -5,8 +5,12 @@
 h1 {
     font-size: 100px;
     display: inline;
+    color: white;
+    margin-left: 90px;
 }
 
 .fa-bars {
     font-size: 100px;
+    color: white;
+    margin: 30px;
 }
