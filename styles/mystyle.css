@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
 #toolbar {
     background-color: darkblue;
 }
@@ -7,6 +11,18 @@ h1 {
     display: inline;
     color: white;
     margin-left: 90px;
+}
+
+li {
+    display: block;
+}
+
+li * {
+    display: inline;
+}
+li p {
+    margin-left: 90px;
+    font-size: 80px;
 }
 
 .fa-bars {
@@ -19,5 +35,10 @@ h1 {
 }
 
 .pstyle{
-    font-size:100px
+    font-size:100;
 }
+
+  
+
+
+  
